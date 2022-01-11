@@ -1,0 +1,2 @@
+C:\Users\seosi\source\repos\polynomialLinkedList\Debug\polynomialLinkedList.exe
+C:\Users\seosi\source\repos\polynomialLinkedList\Debug\polynomialLinkedList.pdb
